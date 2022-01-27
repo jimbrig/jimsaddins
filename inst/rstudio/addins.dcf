@@ -1,0 +1,20 @@
+Name: Generate importFrom
+Description: Generate importFrom roxygen tags
+Binding: rImportFrom
+Interactive: false
+
+Name: Tidy importFrom
+Description: Migrates all importFrom roxygen tags to `R/imports.R`
+Binding: tidy_importFrom
+Interactive: false
+
+Name: Remove Comments
+Description: Removes comments from a selection in RStudio.
+Binding: remove_comments
+Interactive: false
+
+Name: Wrap Roxygen
+Description: Wraps selected line to fit inside 80 character width.
+Binding: wrap_roxygen
+Interactive: false
+

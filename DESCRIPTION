@@ -1,0 +1,23 @@
+Package: jimsaddins
+Title: RStudio Addins
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jimmy", "Briggs", , "jimmy.briggs@jimbrig.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7489-8787"))
+Description: A collection of RStudio Addins.
+License: MIT + file LICENSE
+Imports: 
+    cli,
+    crayon,
+    fs,
+    glue,
+    here,
+    purrr,
+    rlang,
+    rstudioapi,
+    stringi,
+    stringr
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
